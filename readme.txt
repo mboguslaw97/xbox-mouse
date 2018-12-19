@@ -1,5 +1,5 @@
 Description:
-Use your xbox controller as a mouse! By default, it is set up to work with an xbox controller,
+Use your gamepad as a mouse! By default, this program is set up to work with an xbox controller,
 but can be easily modified to work with other devices. To see the button encodings of an alternative device, set DISPLAY = True.
 
 
